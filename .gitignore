@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Secrets
+.streamlit/secrets.toml
+
+# User-specific chat history
+chat_history_*.json
+
+# Setup script
+get-pip.py
+
+# Output files (optional)
+output/*.xlsx
+output/*.txt
+output/*.pdf
+*.png
