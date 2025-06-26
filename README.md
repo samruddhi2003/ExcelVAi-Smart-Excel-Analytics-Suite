@@ -35,6 +35,31 @@ Line Trend Chart
 ---
 
 
+## 🌟 Project Highlights
+
+1. Built a context-aware GenAI assistant that analyzes Excel data and dynamically answers user queries using a real-time LLM (Cohere).  
+
+2. Integrated LLM prompting with actual sample data (top 50 rows) for contextual and accurate replies.  
+
+3. Enabled automated Excel tasks through both formula generation and data filtering logic.  
+ 
+4. Fully interactive frontend with zero frontend coding using Streamlit.  
+
+---
+## 💡 Why It’s a GenAI Project
+
+GenAI isn't just about chatbots — it's about generating human-like responses, solutions, or outputs based on given context.  This project uses:
+
+1. Natural language processing (via Cohere)
+
+2. Context embedding (sampled Excel data)
+
+3. Language→Logic translation (generate/explain formulas)➡️ Making it a textbook example of a GenAI-powered analytics assistant.
+
+---
+
+
+
 ## 🎯 Use Cases
 
 * Business analysts exploring Excel files
