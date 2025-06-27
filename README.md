@@ -2,7 +2,7 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="60"/>
 
-**ExcelVA** is an AI-powered, interactive Excel dashboard built with Streamlit and Cohere that enables you to upload, analyze, visualize, and chat with your Excel or CSV data like never before — no code required.
+**ExcelVA!** is an AI-powered, interactive Excel dashboard built with Streamlit and Cohere that enables you to upload, analyze, visualize, and chat with your Excel or CSV data like never before — no code required.
 
 ---
 
