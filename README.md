@@ -8,8 +8,6 @@
 
 ## 🚀 Features
 
-🔍 Features
-
 📁 Upload Excel or CSV files
 
 🧠 AI-powered Chatbot (Cohere API)
